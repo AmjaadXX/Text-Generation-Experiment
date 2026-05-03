@@ -28,16 +28,8 @@ A Gradio interface is used to:
 - Choose a decoding strategy  
 - Generate and view outputs in real time  
 
-##  Goal
-
-To better understand how decoding strategies influence language model behavior and output quality.
-
 ##  Technologies Used
 
 - Python  
 - Hugging Face Transformers  
 - Gradio  
-
-## 📌 Author
-
-Built as a small AI experimentation project to explore NLP generation behavior.
